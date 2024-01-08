@@ -1,0 +1,164 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "title": "Attack on Titan",
+      "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures, the story follows Eren Yeager and his friends who join the military to fight the Titans.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime1.com/attack-on-titan",
+      "genres": "Advanture"
+    },
+    {
+      "id": 2,
+      "title": "My Hero Academia",
+      "description": "In a world where almost everyone has superpowers, or 'quirks,' the story follows Izuku Midoriya, a Quirkless boy who dreams of becoming a hero, as he enrolls in U.A. High School to learn the ropes of being a pro hero.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGZmYjdjN2UtNjAwZi00YmEyLWFhNTEtNjM1OTc5ODg0MGEyXkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime2.com/my-hero-academia",
+      "genres": "Action"
+    },
+    {
+      "id": 3,
+      "title": "One Piece",
+      "description": "Monkey D. Luffy sets sail with his pirate crew in search of the legendary treasure, One Piece, to become the Pirate King. Along the way, they encounter powerful foes, make new friends, and explore the vast seas.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BM2YwYTkwNjItNGQzNy00MWE1LWE1M2ItOTMzOGI1OWQyYjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime3.com/one-piece",
+      "genres": "Advanture"
+    },
+    {
+      "id": 4,
+      "title": "Demon Slayer",
+      "description": "Tanjiro Kamado, a young boy turned demon slayer, embarks on a quest to avenge his family and save his demon-turned sister. Together with his friends, he battles demons and seeks a cure for his sister Nezuko.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+      "linkUrl": "https://www.example-anime4.com/demon-slayer",
+      "genres": "Action"
+    },
+    {
+      "id": 5,
+      "title": "Death Note",
+      "description": "Light Yagami discovers a mysterious notebook that allows him to kill anyone whose name he writes in it. As he takes justice into his own hands, he faces off against the enigmatic detective known only as L.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime5.com/death-note",
+      "genres": "Mystery"
+    },
+    {
+      "id": 6,
+      "title": "Naruto",
+      "description": "Follow the journey of Naruto Uzumaki, a young ninja with dreams of becoming the strongest ninja and earning the title of Hokage. Along the way, he forms lasting bonds with his friends and faces formidable enemies.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime6.com/naruto",
+      "genres": "Advanture"
+    },
+    {
+      "id": 7,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "In a world where alchemy is a powerful science, two brothers, Edward and Alphonse Elric, seek the Philosopher's Stone to restore their bodies after a failed alchemical ritual. Their journey is fraught with challenges and dark secrets.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "linkUrl": "https://www.example-anime7.com/fullmetal-alchemist-brotherhood",
+      "genres": "Advanture"
+    },
+    {
+      "id": 8,
+      "title": "Sword Art Online",
+      "description": "Players find themselves trapped in a virtual reality MMORPG, where death in the game means death in real life. Kirito must navigate the game's challenges to escape, forming bonds and uncovering the mysteries along the way.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGE4M2M2OTYtZDgwMy00NGYwLWE0YTYtYzkyMDFjYWFhN2QzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+      "linkUrl": "https://www.example-anime8.com/sword-art-online",
+      "genres": "Action"
+    },
+    {
+      "id": 9,
+      "title": "Cowboy Bebop",
+      "description": "Follow the adventures of the bounty hunting crew aboard the spaceship Bebop in a futuristic world. Each member has a mysterious past, and together they pursue bounties while facing their own personal demons.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTE5YTAyZDctNjFhYi00YmJhLTg4ZGUtNDk1OTE0ZTY4NTYwL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "linkUrl": "",
+      "genres": "SciFi"
+    },
+    {
+      "id": 10,
+      "title": "Dragon Ball Z",
+      "description": "Goku and his friends defend Earth against powerful foes and seek the Dragon Balls to fulfill their wishes. The series explores themes of friendship, sacrifice, and the constant pursuit of becoming stronger.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime10.com/dragon-ball-z",
+      "genres": "Advanture"
+    },
+    {
+      "id": 11,
+      "title": "One Punch Man",
+      "description": "Saitama, a hero for fun, becomes frustrated with the lack of challenging opponents despite being incredibly powerful. Seeking excitement, he joins the Hero Association to find worthy adversaries.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjJlNzE5YzEtYzQwYS00NTBjLTk5YzAtYzUwOWQyM2E3OGI2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+      "linkUrl": "https://www.example-anime11.com/one-punch-man",
+      "genres": "Action"
+    },
+    {
+      "id": 12,
+      "title": "Samurai Flamenco",
+      "description": "Masayoshi Hazama, an aspiring model, decides to become a superhero named Samurai Flamenco. As he tackles petty crimes, he soon finds himself facing increasingly bizarre and dangerous villains.",
+      "imgUrl": "https://images.justwatch.com/poster/176764924/s718/samurai-flamenco.jpg",
+      "linkUrl": "https://www.example-anime12.com/samurai-flamenco",
+      "genres": "Action"
+    },
+    {
+      "id": 13,
+      "title": "Zetman",
+      "description": "Jin Kanzaki, a young man with extraordinary abilities, becomes involved in a secret project. As he confronts monstrous foes and uncovers his own mysterious past, he must navigate a world filled with danger and intrigue.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BOWM5YmUzZDMtY2NjNi00ZWJhLWFkMmUtZDc4YzY2ZTE0ODUwXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_.jpg",
+      "linkUrl": "https://www.example-anime13.com/zetman",
+      "genres": "Action"
+    },
+    {
+      "id": 14,
+      "title": "Cyborg 009",
+      "description": "Nine individuals, each turned into a powerful cyborg, unite to fight against the evil organization Black Ghost. Together, they use their unique abilities to protect humanity from various threats.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjYxODczNjQtY2RhMS00MzQ0LWFjNTgtZmIwMTUyZDFjOTBiXkEyXkFqcGdeQXVyNDY3MTQwMzk@._V1_.jpg",
+      "linkUrl": "https://www.example-anime14.com/cyborg-009",
+      "genres": "Advanture"
+    },
+    {
+      "id": 15,
+      "title": "Your Lie in April",
+      "description": "Kosei Arima, a prodigious pianist, loses the ability to hear the sound of his piano after the death of his mother. His life takes a turn when he meets a free-spirited violinist named Kaori Miyazono.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BYThlNWY5ZDgtYTIxNC00ZjdiLWJmNGUtMDFjMDlmZTAzOWFiXkEyXkFqcGdeQXVyNTM4NzAzNjc@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime15.com/your-lie-in-april",
+      "genres": "Romance"
+    },
+    {
+      "id": 16,
+      "title": "Toradora!",
+      "description": "Ryuuji Takasu, with a fearsome face, and Taiga Aisaka, a tiny but fierce girl, form an unlikely alliance to help each other pursue their respective crushes. However, their plan leads to unexpected developments.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWEwMjE2MjQtZTQ3NC00OTUxLWEwMWUtMThjZjg4Zjc5ZDYwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime16.com/toradora",
+      "genres": "Romance"
+    },
+    {
+      "id": 17,
+      "title": "Golden Time",
+      "description": "Tada Banri loses his memories after a tragic accident and starts a new life in law school. There, he meets the spirited Kouko Kaga, and their complex relationship unfolds amidst the challenges of college life.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZTI0MDA5MWUtMWMyYS00NWM3LWE5ZmYtYTUxZmMxMGE5Y2IwXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_.jpg",
+      "linkUrl": "https://www.example-anime17.com/golden-time",
+      "genres": "Romance"
+    },
+    {
+      "id": 18,
+      "title": "Clannad: After Story",
+      "description": "Follow Tomoya Okazaki and Nagisa Furukawa as they navigate the challenges of adulthood, parenthood, and the enduring power of family bonds. A heartfelt continuation of the original Clannad series.",
+      "imgUrl": "https://i.ebayimg.com/images/g/J3AAAOSwP3dkrzGH/s-l1600.jpg",
+      "linkUrl": "https://www.example-anime18.com/clannad-after-story",
+      "genres": "Romance"
+    },
+    {
+      "id": 19,
+      "title": "Steins;Gate",
+      "description": "Rintarou Okabe, a self-proclaimed mad scientist, discovers the ability to send messages to the past using a microwave. As he delves deeper into time travel, he unravels a conspiracy that puts the world at stake.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg",
+      "linkUrl": "https://www.example-anime19.com/steins-gate",
+      "genres": "SciFi"
+    },
+    {
+      "id": 20,
+      "title": "Snow White with the Red Hair",
+      "description": "Shirayuki, a skilled herbalist with unique red hair, flees her kingdom to avoid a forced marriage. Along the way, she encounters Prince Zen and embarks on a journey of self-discovery and romance.",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzRhZDhkOWQtOGI2OC00MWQ1LTkxN2UtNmRjYzc1ZTg3YTQ1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+      "linkUrl": "https://www.example-anime20.com/snow-white-with-the-red-hair",
+      "genres": "Romance"
+    }
+  ]
+}
